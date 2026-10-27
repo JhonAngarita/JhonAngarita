@@ -23,8 +23,8 @@
 Hola, soy **Jhon Angarita**, **analista y desarrollador de software**. Me gusta construir aplicaciones web, trabajar con datos y convertirlos en soluciones útiles.
 
 - 🔭 Trabajando en: **queens-be-alejandra**
-- 🌱 Aprendiendo: _(escribe aquí qué estás aprendiendo)_
-- ⚡ Dato curioso: _(algo sobre ti)_
+- 🌱 Aprendiendo: 
+- ⚡ Dato curioso: 
 
 ---
 
