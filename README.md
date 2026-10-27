@@ -26,22 +26,36 @@ Hola, soy **Jhon Angarita**, **analista y desarrollador de software**. Me gusta 
 - 🌱 Aprendiendo: _(escribe aquí qué estás aprendiendo)_
 - ⚡ Dato curioso: _(algo sobre ti)_
 
-## Tecnologías
+---
 
-**Lenguajes**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<h2>Stack</h2>
 
-**Datos**
+<img src="https://skillicons.dev/icons?i=js,python,php,html,css,postgres&perline=6" alt="Lenguajes y bases de datos"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,bash&perline=6" alt="Herramientas"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-0F766E?style=flat-square&logo=databricks&logoColor=white)
+---
 
-**Herramientas**
+<h2>signals</h2>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="./radar_skills.svg" alt="Skill Radar" width="48%"/>
+<img src="./radar_lenguajes.svg" alt="Language Stack" width="48%"/>
+
+---
+
+<h2>Numbers matter? ohhh yes.</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JhonAngarita&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonAngarita&layout=compact&theme=github_dark&langs_count=8" alt="Most used languages" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=JhonAngarita&theme=github-dark-blue&hide_border=false" alt="GitHub streak"/>
+
+---
+
+<sub>Built with love · <b>@JhonAngarita</b></sub>
+
+</div>
