@@ -4,7 +4,7 @@
 
 <h2>Building here since Forever</h2>
 
-<a href="https://github.com/JhonAngarita"><img src="https://img.shields.io/badge/GitHub-JhonAngarita-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+
 <!-- Descomenta y pon tus links:
 <a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/TU-USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
